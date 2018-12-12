@@ -1,0 +1,40 @@
+body {
+  max-height: 100%
+}
+
+.header {
+  background-color: #0dc9eb;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+}
+
+p {
+  align-content: center
+}
+
+
+.container {
+  background-color:  #0dc9eb;;
+  max-width: 100%;
+}
+
+h1 {
+  color: white;
+}
+
+.modalheader, .modalfooter {
+  background-color: #b4b4b4;
+  color: white;
+  justify-content: center
+}
+
+.btn {
+  color: white;
+  background-color: #b4b4b4;
+}
+
+#droptop {
+  background-color: #b4b4b4
+}
+
